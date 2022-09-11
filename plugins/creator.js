@@ -21,8 +21,8 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*💌 Nama* : Fangz
-*✉️ Nama RL* : FangzBOT
+*💌 Nama* : Leo
+*✉️ Nama RL* : FangzBot
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
 *⏰ Tanggal lahir* : 25 oktober 2007
